@@ -5,6 +5,7 @@ import { TmdbService } from '../../services/tmdb.service';
 
 @Component({
   selector: 'app-navigation',
+
   template: `
     <mat-toolbar color="primary" class="navigation-toolbar">
       <div class="logo-container">
